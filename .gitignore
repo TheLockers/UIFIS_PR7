@@ -361,3 +361,16 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+
+# Результаты сборки
+[Bb]in/
+[Oo]bj/
+
+# Файлы Visual Studio
+.vs/
+*.user
+*.suo
+
+# Файлы результатов тестирования
+TestResults/
